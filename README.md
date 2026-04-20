@@ -1,8 +1,8 @@
 # Sweet Crumbs Bakery Website
 
 ## Student Information
-Name: [Your Name]  
-Student Number: [Your Number]
+Name:Landa Setlaba 
+Student Number:ST10480714
 
 ## Project Overview
 This project is a website developed for a small business called Sweet Crumbs Bakery. The website provides information about the bakery, its products, and allows users to make enquiries.
@@ -41,5 +41,5 @@ This submission includes the initial website structure, HTML files, and content 
 - Implemented navigation menu
 - Added content to pages
 
-## References
-(Use your Harvard references here)
+
+
